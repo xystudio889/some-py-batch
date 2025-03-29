@@ -1,3 +1,5 @@
+@echo off
+
 IF "%4"=="" (
     IF "%1"=="help" (
         pip help
